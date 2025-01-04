@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB Connection
-mongoose.connect('mongodb+srv://Visual:MkkLJ47zV6fbrvyn@cluster0.qq1gvxz.mongodb.net/Mentor', {
+mongoose.connect('mongodb+srv://Data:Random%403960@cluster0.llqj4.mongodb.net/Mentor', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
